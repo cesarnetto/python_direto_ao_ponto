@@ -1,0 +1,7 @@
+Programa que armazena o nome e e-mail dos usuários em um arquivo CSV.
+
+Principais funções do programa:
+ - Ler os dados do arquivo cvs no inicio do programa;
+ - Registrar os usuários em uma lista;
+ - Exibir os usuários cadastrados;
+ - Salvar os dados num arquivo CSV antes de sair.
